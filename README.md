@@ -64,8 +64,16 @@ php artisan reverb:start --debug
 
 
 ## Usefull command
+```
 php artisan order:update-status placed
+```
+```
 php artisan order:update-status shipped
+```
+```
 php artisan order:update-status processing
+```
+```
 php artisan order:update-status delivered
+```
 
